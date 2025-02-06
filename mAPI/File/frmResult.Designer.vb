@@ -33,7 +33,7 @@ Partial Class frmResult
         Me.dtResult.Location = New System.Drawing.Point(12, 12)
         Me.dtResult.MainView = Me.GridView
         Me.dtResult.Name = "dtResult"
-        Me.dtResult.Size = New System.Drawing.Size(777, 391)
+        Me.dtResult.Size = New System.Drawing.Size(1100, 607)
         Me.dtResult.TabIndex = 0
         Me.dtResult.ViewCollection.AddRange(New DevExpress.XtraGrid.Views.Base.BaseView() {Me.GridView})
         '
@@ -46,7 +46,7 @@ Partial Class frmResult
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(801, 415)
+        Me.ClientSize = New System.Drawing.Size(1124, 631)
         Me.Controls.Add(Me.dtResult)
         Me.Name = "frmResult"
         Me.Text = "frmResult"
