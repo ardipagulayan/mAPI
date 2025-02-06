@@ -30,10 +30,10 @@ Partial Class frmResult
         '
         'dtResult
         '
-        Me.dtResult.Location = New System.Drawing.Point(111, 86)
+        Me.dtResult.Location = New System.Drawing.Point(12, 12)
         Me.dtResult.MainView = Me.GridView
         Me.dtResult.Name = "dtResult"
-        Me.dtResult.Size = New System.Drawing.Size(575, 266)
+        Me.dtResult.Size = New System.Drawing.Size(777, 391)
         Me.dtResult.TabIndex = 0
         Me.dtResult.ViewCollection.AddRange(New DevExpress.XtraGrid.Views.Base.BaseView() {Me.GridView})
         '
