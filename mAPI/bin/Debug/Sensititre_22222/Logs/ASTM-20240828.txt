@@ -1,0 +1,925 @@
+﻿28-08-2024 10:14:21: COM6 Open
+28-08-2024 10:15:42: COM6 Open
+28-08-2024 10:15:52: COM6 Open
+28-08-2024 10:21:24: COM6 Open
+28-08-2024 10:25:26: COM6 Open
+28-08-2024 10:33:43: COM6 Open
+28-08-2024 12:54:07: COM6 Open
+28-08-2024 12:54:31: *************START TRANSMIT****************
+28-08-2024 12:54:31: Rx: ENQ
+28-08-2024 12:54:31: Tx: ACK
+28-08-2024 12:54:32: Rx: H|\^&||||||||||P|NCCLS LIS2-A|20240828125539
+28-08-2024 12:54:32: Tx: ACK
+28-08-2024 12:54:32: Rx: P|1|112333||1|DELA CRUZ^JUAN^SANTOS|||M|||||^|-1|Y|||||||
+28-08-2024 12:54:32: Tx: ACK
+28-08-2024 12:54:33: Rx: C|1|P|Pat Coded Note 1:^^
+28-08-2024 12:54:33: Tx: ACK
+28-08-2024 12:54:33: Rx: C|2|P|Pat Coded Note 2:^^
+28-08-2024 12:54:33: Tx: ACK
+28-08-2024 12:54:34: Rx: C|3|P|Pat Coded Note 3:^^
+28-08-2024 12:54:34: Tx: ACK
+28-08-2024 12:54:34: Rx: C|4|P|Pat Coded Note 4:^^
+28-08-2024 12:54:34: Tx: ACK
+28-08-2024 12:54:35: Rx: C|5|P|NOTE 1^
+28-08-2024 12:54:35: Tx: ACK
+28-08-2024 12:54:35: Rx: C|6|P|NOTE 2^
+28-08-2024 12:54:35: Tx: ACK
+28-08-2024 12:54:36: Rx: C|7|P|NOTE 3^
+28-08-2024 12:54:36: Tx: ACK
+28-08-2024 12:54:36: Rx: C|8|P|Pat Coded Note 5:^^
+28-08-2024 12:54:36: Tx: ACK
+28-08-2024 12:54:37: Rx: C|9|P|Pat Coded Note 6:^^
+28-08-2024 12:54:37: Tx: ACK
+28-08-2024 12:54:37: Rx: O|1|1^A^|1^1|^^^DFW-A^GN4F GRAM- MAN MIC/BP^^20240819172645^1^|R||||||N|||20240819014723|ANY^ANY SOURCE|^|||HUMAN^Human||||||F||^|N
+28-08-2024 12:54:37: Tx: ACK
+28-08-2024 12:54:38: Rx: C|1|L|Spec Coded Note 1:^^
+28-08-2024 12:54:38: Tx: ACK
+28-08-2024 12:54:38: Rx: C|2|L|Spec Coded Note 2:^^
+28-08-2024 12:54:38: Tx: ACK
+28-08-2024 12:54:39: Rx: C|3|L|Spec Coded Note 3:^^
+28-08-2024 12:54:39: Tx: ACK
+28-08-2024 12:54:39: Rx: C|4|L|NOTE 1^
+28-08-2024 12:54:39: Tx: ACK
+28-08-2024 12:54:40: Rx: C|5|L|NOTE 2^
+28-08-2024 12:54:40: Tx: ACK
+28-08-2024 12:54:40: Rx: C|6|L|NOTE 3^
+28-08-2024 12:54:40: Tx: ACK
+28-08-2024 12:54:41: Rx: C|7|L|PRELIMID^ANY^ANY ORGANISM^Any Organism
+28-08-2024 12:54:41: Tx: ACK
+28-08-2024 12:54:41: Rx: C|8|L|PRE-DATE^20240819014723
+28-08-2024 12:54:41: Tx: ACK
+28-08-2024 12:54:42: Rx: C|9|L|FINALID^ANY^ANY ORGANISM^Any Organism
+28-08-2024 12:54:42: Tx: ACK
+28-08-2024 12:54:42: Rx: C|10|L|FINAL-DATE^20240819014723
+28-08-2024 12:54:42: Tx: ACK
+28-08-2024 12:54:43: Rx: C|11|L|Spec Coded Note 4:^^
+28-08-2024 12:54:43: Tx: ACK
+28-08-2024 12:54:43: Rx: C|12|L|Spec Coded Note 5:^^
+28-08-2024 12:54:43: Tx: ACK
+28-08-2024 12:54:44: Rx: C|13|L|Spec Coded Note 6:^^
+28-08-2024 12:54:44: Tx: ACK
+28-08-2024 12:54:45: Rx: C|14|L|DUPLICATE^NO
+28-08-2024 12:54:45: Tx: ACK
+28-08-2024 12:54:45: Rx: C|15|L|ISOLATE-COMMENT^
+28-08-2024 12:54:45: Tx: ACK
+28-08-2024 12:54:46: Rx: C|16|L|Iso Coded Note 1:^^
+28-08-2024 12:54:46: Tx: ACK
+28-08-2024 12:54:46: Rx: C|17|L|Iso Coded Note 2:^^
+28-08-2024 12:54:46: Tx: ACK
+28-08-2024 12:54:47: Rx: C|18|L|Iso Coded Note 3:^^
+28-08-2024 12:54:47: Tx: ACK
+28-08-2024 12:54:47: Rx: C|19|L|Iso Coded Note 4:^^
+28-08-2024 12:54:47: Tx: ACK
+28-08-2024 12:54:48: Rx: R|1|^^^AMIKAC^Amikacin^Amikacin^MIC-BP|INVALID^1
+28-08-2024 12:54:48: Tx: ACK
+28-08-2024 12:54:48: Rx: R|2|^^^AMIKAC^Amikacin^Amikacin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:54:48: Tx: ACK
+28-08-2024 12:54:49: Rx: R|1|^^^AMPICI^Ampicillin^Ampicillin^MIC-BP|INVALID^1
+28-08-2024 12:54:49: Tx: ACK
+28-08-2024 12:54:49: Rx: R|2|^^^AMPICI^Ampicillin^Ampicillin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:54:49: Tx: ACK
+28-08-2024 12:54:50: Rx: R|1|^^^AMPSUL^Ampicillin/Sulbactam^Amp/Sulb^MIC-BP|INVALID^1
+28-08-2024 12:54:50: Tx: ACK
+28-08-2024 12:54:50: Rx: R|2|^^^AMPSUL^Ampicillin/Sulbactam^Amp/Sulb^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:54:50: Tx: ACK
+28-08-2024 12:54:51: Rx: R|1|^^^AZTREO^Aztreonam^Aztreonam^MIC-BP|INVALID^0
+28-08-2024 12:54:51: Tx: ACK
+28-08-2024 12:54:51: Rx: R|2|^^^AZTREO^Aztreonam^Aztreonam^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:54:51: Tx: ACK
+28-08-2024 12:54:52: Rx: R|1|^^^CEFAZO^Cefazolin^Cefazolin^MIC-BP|INVALID^0
+28-08-2024 12:54:52: Tx: ACK
+28-08-2024 12:54:52: Rx: R|2|^^^CEFAZO^Cefazolin^Cefazolin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:54:52: Tx: ACK
+28-08-2024 12:54:53: Rx: R|1|^^^CEFEPI^Cefepime^Cefepime^MIC-BP|INVALID^0
+28-08-2024 12:54:53: Tx: ACK
+28-08-2024 12:56:07: COM6 Open
+28-08-2024 12:56:27: *************START TRANSMIT****************
+28-08-2024 12:56:27: Rx: ENQ
+28-08-2024 12:56:27: Tx: ACK
+28-08-2024 12:56:27: Rx: H|\^&||||||||||P|NCCLS LIS2-A|20240828125735
+28-08-2024 12:56:27: Tx: ACK
+28-08-2024 12:56:28: Rx: P|1|112333||1|DELA CRUZ^JUAN^SANTOS|||M|||||^|-1|Y|||||||
+28-08-2024 12:56:28: Tx: ACK
+28-08-2024 12:56:28: Rx: C|1|P|Pat Coded Note 1:^^
+28-08-2024 12:56:28: Tx: ACK
+28-08-2024 12:56:29: Rx: C|2|P|Pat Coded Note 2:^^
+28-08-2024 12:56:29: Tx: ACK
+28-08-2024 12:56:29: Rx: C|3|P|Pat Coded Note 3:^^
+28-08-2024 12:56:29: Tx: ACK
+28-08-2024 12:56:30: Rx: C|4|P|Pat Coded Note 4:^^
+28-08-2024 12:56:30: Tx: ACK
+28-08-2024 12:56:30: Rx: C|5|P|NOTE 1^
+28-08-2024 12:56:30: Tx: ACK
+28-08-2024 12:56:31: Rx: C|6|P|NOTE 2^
+28-08-2024 12:56:31: Tx: ACK
+28-08-2024 12:56:31: Rx: C|7|P|NOTE 3^
+28-08-2024 12:56:31: Tx: ACK
+28-08-2024 12:56:32: Rx: C|8|P|Pat Coded Note 5:^^
+28-08-2024 12:56:32: Tx: ACK
+28-08-2024 12:56:32: Rx: C|9|P|Pat Coded Note 6:^^
+28-08-2024 12:56:32: Tx: ACK
+28-08-2024 12:56:33: Rx: O|1|1^A^|1^1|^^^DFW-A^GN4F GRAM- MAN MIC/BP^^20240819172645^1^|R||||||N|||20240819014723|ANY^ANY SOURCE|^|||HUMAN^Human||||||F||^|N
+28-08-2024 12:56:33: Tx: ACK
+28-08-2024 12:56:33: Rx: C|1|L|Spec Coded Note 1:^^
+28-08-2024 12:56:33: Tx: ACK
+28-08-2024 12:56:34: Rx: C|2|L|Spec Coded Note 2:^^
+28-08-2024 12:56:34: Tx: ACK
+28-08-2024 12:56:34: Rx: C|3|L|Spec Coded Note 3:^^
+28-08-2024 12:56:34: Tx: ACK
+28-08-2024 12:56:35: Rx: C|4|L|NOTE 1^
+28-08-2024 12:56:35: Tx: ACK
+28-08-2024 12:56:35: Rx: C|5|L|NOTE 2^
+28-08-2024 12:56:35: Tx: ACK
+28-08-2024 12:56:36: Rx: C|6|L|NOTE 3^
+28-08-2024 12:56:36: Tx: ACK
+28-08-2024 12:56:37: Rx: C|7|L|PRELIMID^ANY^ANY ORGANISM^Any Organism
+28-08-2024 12:56:37: Tx: ACK
+28-08-2024 12:56:37: Rx: C|8|L|PRE-DATE^20240819014723
+28-08-2024 12:56:37: Tx: ACK
+28-08-2024 12:56:38: Rx: C|9|L|FINALID^ANY^ANY ORGANISM^Any Organism
+28-08-2024 12:56:38: Tx: ACK
+28-08-2024 12:56:38: Rx: C|10|L|FINAL-DATE^20240819014723
+28-08-2024 12:56:38: Tx: ACK
+28-08-2024 12:56:39: Rx: C|11|L|Spec Coded Note 4:^^
+28-08-2024 12:56:39: Tx: ACK
+28-08-2024 12:56:39: Rx: C|12|L|Spec Coded Note 5:^^
+28-08-2024 12:56:39: Tx: ACK
+28-08-2024 12:56:40: Rx: C|13|L|Spec Coded Note 6:^^
+28-08-2024 12:56:40: Tx: ACK
+28-08-2024 12:56:40: Rx: C|14|L|DUPLICATE^NO
+28-08-2024 12:56:40: Tx: ACK
+28-08-2024 12:56:41: Rx: C|15|L|ISOLATE-COMMENT^
+28-08-2024 12:56:41: Tx: ACK
+28-08-2024 12:56:41: Rx: C|16|L|Iso Coded Note 1:^^
+28-08-2024 12:56:41: Tx: ACK
+28-08-2024 12:56:42: Rx: C|17|L|Iso Coded Note 2:^^
+28-08-2024 12:56:42: Tx: ACK
+28-08-2024 12:56:42: Rx: C|18|L|Iso Coded Note 3:^^
+28-08-2024 12:56:42: Tx: ACK
+28-08-2024 12:56:43: Rx: C|19|L|Iso Coded Note 4:^^
+28-08-2024 12:56:43: Tx: ACK
+28-08-2024 12:56:43: Rx: R|1|^^^AMIKAC^Amikacin^Amikacin^MIC-BP|INVALID^1
+28-08-2024 12:56:43: Tx: ACK
+28-08-2024 12:56:44: Rx: R|2|^^^AMIKAC^Amikacin^Amikacin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:56:44: Tx: ACK
+28-08-2024 12:56:44: Rx: R|1|^^^AMPICI^Ampicillin^Ampicillin^MIC-BP|INVALID^1
+28-08-2024 12:56:44: Tx: ACK
+28-08-2024 12:56:45: Rx: R|2|^^^AMPICI^Ampicillin^Ampicillin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:56:45: Tx: ACK
+28-08-2024 12:56:45: Rx: R|1|^^^AMPSUL^Ampicillin/Sulbactam^Amp/Sulb^MIC-BP|INVALID^1
+28-08-2024 12:56:45: Tx: ACK
+28-08-2024 12:56:46: Rx: R|2|^^^AMPSUL^Ampicillin/Sulbactam^Amp/Sulb^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:56:46: Tx: ACK
+28-08-2024 12:56:46: Rx: R|1|^^^AZTREO^Aztreonam^Aztreonam^MIC-BP|INVALID^0
+28-08-2024 12:56:46: Tx: ACK
+28-08-2024 12:56:47: Rx: R|2|^^^AZTREO^Aztreonam^Aztreonam^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:56:47: Tx: ACK
+28-08-2024 12:56:47: Rx: R|1|^^^CEFAZO^Cefazolin^Cefazolin^MIC-BP|INVALID^0
+28-08-2024 12:56:47: Tx: ACK
+28-08-2024 12:56:48: Rx: R|2|^^^CEFAZO^Cefazolin^Cefazolin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:56:48: Tx: ACK
+28-08-2024 12:56:48: Rx: R|1|^^^CEFEPI^Cefepime^Cefepime^MIC-BP|INVALID^0
+28-08-2024 12:56:48: Tx: ACK
+28-08-2024 12:56:49: Rx: R|2|^^^CEFEPI^Cefepime^Cefepime^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:56:49: Tx: ACK
+28-08-2024 12:56:49: Rx: R|1|^^^CEFTAZ^Ceftazidime^Ceftazidime^MIC-BP|INVALID^0
+28-08-2024 12:56:49: Tx: ACK
+28-08-2024 12:56:50: Rx: R|2|^^^CEFTAZ^Ceftazidime^Ceftazidime^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:56:50: Tx: ACK
+28-08-2024 12:56:50: Rx: R|1|^^^CEFTRI^Ceftriaxone^Ceftriaxone^MIC-BP|INVALID^0
+28-08-2024 12:56:50: Tx: ACK
+28-08-2024 12:56:51: Rx: R|2|^^^CEFTRI^Ceftriaxone^Ceftriaxone^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:56:51: Tx: ACK
+28-08-2024 12:56:51: Rx: R|1|^^^CIPROF^Ciprofloxacin^Ciproflox^MIC-BP|INVALID^1
+28-08-2024 12:56:51: Tx: ACK
+28-08-2024 12:56:52: Rx: R|2|^^^CIPROF^Ciprofloxacin^Ciproflox^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:56:52: Tx: ACK
+28-08-2024 12:56:52: Rx: R|1|^^^DORIPE^Doripenem^Doripenem^MIC-BP|INVALID^0
+28-08-2024 12:56:52: Tx: ACK
+28-08-2024 12:56:53: Rx: R|2|^^^DORIPE^Doripenem^Doripenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:56:53: Tx: ACK
+28-08-2024 12:56:53: Rx: R|1|^^^ERTAPE^Ertapenem^Ertapenem^MIC-BP|INVALID^0
+28-08-2024 12:56:53: Tx: ACK
+28-08-2024 12:56:54: Rx: R|2|^^^ERTAPE^Ertapenem^Ertapenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:56:54: Tx: ACK
+28-08-2024 12:56:54: Rx: R|1|^^^GENTAM^Gentamicin^Gentamicin^MIC-BP|INVALID^1
+28-08-2024 12:56:54: Tx: ACK
+28-08-2024 12:56:55: Rx: R|2|^^^GENTAM^Gentamicin^Gentamicin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:56:55: Tx: ACK
+28-08-2024 12:56:55: Rx: R|1|^^^IMIPEN^Imipenem^Imipenem^MIC-BP|INVALID^0
+28-08-2024 12:56:55: Tx: ACK
+28-08-2024 12:56:56: Rx: R|2|^^^IMIPEN^Imipenem^Imipenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:56:56: Tx: ACK
+28-08-2024 12:56:56: Rx: R|1|^^^LEVOFL^Levofloxacin^Levofloxacin^MIC-BP|INVALID^0
+28-08-2024 12:56:56: Tx: ACK
+28-08-2024 12:56:57: Rx: R|2|^^^LEVOFL^Levofloxacin^Levofloxacin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:56:57: Tx: ACK
+28-08-2024 12:56:57: Rx: R|1|^^^MEROPE^Meropenem^Meropenem^MIC-BP|INVALID^0
+28-08-2024 12:56:57: Tx: ACK
+28-08-2024 12:56:58: Rx: R|2|^^^MEROPE^Meropenem^Meropenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:56:58: Tx: ACK
+28-08-2024 12:56:59: Rx: R|1|^^^MINOCY^Minocycline^Minocycline^MIC-BP|INVALID^0
+28-08-2024 12:56:59: Tx: ACK
+28-08-2024 12:56:59: Rx: R|2|^^^MINOCY^Minocycline^Minocycline^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:56:59: Tx: ACK
+28-08-2024 12:57:00: Rx: R|1|^^^NITRO^Nitrofurantoin^Nitrofuran^MIC-BP|INVALID^1
+28-08-2024 12:57:00: Tx: ACK
+28-08-2024 12:57:00: Rx: R|2|^^^NITRO^Nitrofurantoin^Nitrofuran^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:00: Tx: ACK
+28-08-2024 12:57:01: Rx: R|1|^^^PIPERA^Piperacillin^Piperacillin^MIC-BP|INVALID^1
+28-08-2024 12:57:01: Tx: ACK
+28-08-2024 12:57:01: Rx: R|2|^^^PIPERA^Piperacillin^Piperacillin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:01: Tx: ACK
+28-08-2024 12:57:02: Rx: R|1|^^^PIPTAZ^Piperacillin/Tazobactam^Pipera/Tazob^MIC-BP|INVALID^0
+28-08-2024 12:57:02: Tx: ACK
+28-08-2024 12:57:02: Rx: R|2|^^^PIPTAZ^Piperacillin/Tazobactam^Pipera/Tazob^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:02: Tx: ACK
+28-08-2024 12:57:03: Rx: R|1|^^^POSCTL^Positive Growth Control^Positive Ctl^MIC-BP|-1.0000^1
+28-08-2024 12:57:03: Tx: ACK
+28-08-2024 12:57:03: Rx: R|2|^^^POSCTL^Positive Growth Control^Positive Ctl^INTERP|INVCTL^Invalid Growth Control
+28-08-2024 12:57:03: Tx: ACK
+28-08-2024 12:57:04: Rx: R|1|^^^TETRA^Tetracycline^Tetracycline^MIC-BP|INVALID^1
+28-08-2024 12:57:04: Tx: ACK
+28-08-2024 12:57:04: Rx: R|2|^^^TETRA^Tetracycline^Tetracycline^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:04: Tx: ACK
+28-08-2024 12:57:05: Rx: R|1|^^^TICCLA^Ticarcillin/Clavulanic Acid^Ticarc/Clav^MIC-BP|INVALID^0
+28-08-2024 12:57:05: Tx: ACK
+28-08-2024 12:57:05: Rx: R|2|^^^TICCLA^Ticarcillin/Clavulanic Acid^Ticarc/Clav^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:05: Tx: ACK
+28-08-2024 12:57:06: Rx: R|1|^^^TIGECY^Tigecycline^Tigecycline^MIC-BP|INVALID^0
+28-08-2024 12:57:06: Tx: ACK
+28-08-2024 12:57:06: Rx: R|2|^^^TIGECY^Tigecycline^Tigecycline^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:06: Tx: ACK
+28-08-2024 12:57:07: Rx: R|1|^^^TOBRAM^Tobramycin^Tobramycin^MIC-BP|INVALID^1
+28-08-2024 12:57:07: Tx: ACK
+28-08-2024 12:57:07: Rx: R|2|^^^TOBRAM^Tobramycin^Tobramycin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:07: Tx: ACK
+28-08-2024 12:57:08: Rx: R|1|^^^TRISUL^Trimethoprim/Sulfamethoxazole^Trim/Sulmeth^MIC-BP|INVALID^1
+28-08-2024 12:57:08: Tx: ACK
+28-08-2024 12:57:08: Rx: R|2|^^^TRISUL^Trimethoprim/Sulfamethoxazole^Trim/Sulmeth^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:08: Tx: ACK
+28-08-2024 12:57:09: Rx: P|2|2222-33250||2|DOE^JANE^|||F|||||^|-1|Y|||||||
+28-08-2024 12:57:09: Tx: ACK
+28-08-2024 12:57:09: Rx: C|1|P|Pat Coded Note 1:^^
+28-08-2024 12:57:09: Tx: ACK
+28-08-2024 12:57:10: Rx: C|2|P|Pat Coded Note 2:^^
+28-08-2024 12:57:10: Tx: ACK
+28-08-2024 12:57:10: Rx: C|3|P|Pat Coded Note 3:^^
+28-08-2024 12:57:10: Tx: ACK
+28-08-2024 12:57:11: Rx: C|4|P|Pat Coded Note 4:^^
+28-08-2024 12:57:11: Tx: ACK
+28-08-2024 12:57:11: Rx: C|5|P|NOTE 1^
+28-08-2024 12:57:11: Tx: ACK
+28-08-2024 12:57:12: Rx: C|6|P|NOTE 2^
+28-08-2024 12:57:12: Tx: ACK
+28-08-2024 12:57:12: Rx: C|7|P|NOTE 3^
+28-08-2024 12:57:12: Tx: ACK
+28-08-2024 12:57:13: Rx: C|8|P|Pat Coded Note 5:^^
+28-08-2024 12:57:13: Tx: ACK
+28-08-2024 12:57:13: Rx: C|9|P|Pat Coded Note 6:^^
+28-08-2024 12:57:13: Tx: ACK
+28-08-2024 12:57:14: Rx: O|1|2^A^|2^2|^^^DFW-A^GN4F GRAM- MAN MIC/BP^^20240820010024^1^|R||||||N|||20240819014729|BL^Blood|^|||HUMAN^Human||||||F||^|N
+28-08-2024 12:57:14: Tx: ACK
+28-08-2024 12:57:14: Rx: C|1|L|Spec Coded Note 1:^^
+28-08-2024 12:57:14: Tx: ACK
+28-08-2024 12:57:15: Rx: C|2|L|Spec Coded Note 2:^^
+28-08-2024 12:57:15: Tx: ACK
+28-08-2024 12:57:15: Rx: C|3|L|Spec Coded Note 3:^^
+28-08-2024 12:57:15: Tx: ACK
+28-08-2024 12:57:16: Rx: C|4|L|NOTE 1^
+28-08-2024 12:57:16: Tx: ACK
+28-08-2024 12:57:16: Rx: C|5|L|NOTE 2^
+28-08-2024 12:57:16: Tx: ACK
+28-08-2024 12:57:17: Rx: C|6|L|NOTE 3^
+28-08-2024 12:57:17: Tx: ACK
+28-08-2024 12:57:17: Rx: C|7|L|PRELIMID^A.GRPB^Achromobacter-like group B^Ach.group B
+28-08-2024 12:57:17: Tx: ACK
+28-08-2024 12:57:18: Rx: C|8|L|PRE-DATE^20240819014728
+28-08-2024 12:57:18: Tx: ACK
+28-08-2024 12:57:18: Rx: C|9|L|FINALID^A.GRPB^Achromobacter-like group B^Ach.group B
+28-08-2024 12:57:18: Tx: ACK
+28-08-2024 12:57:19: Rx: C|10|L|FINAL-DATE^20240819014728
+28-08-2024 12:57:19: Tx: ACK
+28-08-2024 12:57:19: Rx: C|11|L|Spec Coded Note 4:^^
+28-08-2024 12:57:19: Tx: ACK
+28-08-2024 12:57:20: Rx: C|12|L|Spec Coded Note 5:^^
+28-08-2024 12:57:20: Tx: ACK
+28-08-2024 12:57:20: Rx: C|13|L|Spec Coded Note 6:^^
+28-08-2024 12:57:20: Tx: ACK
+28-08-2024 12:57:21: Rx: C|14|L|DUPLICATE^NO
+28-08-2024 12:57:21: Tx: ACK
+28-08-2024 12:57:22: Rx: C|15|L|ISOLATE-COMMENT^
+28-08-2024 12:57:22: Tx: ACK
+28-08-2024 12:57:22: Rx: C|16|L|Iso Coded Note 1:^^
+28-08-2024 12:57:22: Tx: ACK
+28-08-2024 12:57:23: Rx: C|17|L|Iso Coded Note 2:^^
+28-08-2024 12:57:23: Tx: ACK
+28-08-2024 12:57:23: Rx: C|18|L|Iso Coded Note 3:^^
+28-08-2024 12:57:23: Tx: ACK
+28-08-2024 12:57:24: Rx: C|19|L|Iso Coded Note 4:^^
+28-08-2024 12:57:24: Tx: ACK
+28-08-2024 12:57:24: Rx: R|1|^^^AMIKAC^Amikacin^Amikacin^MIC-BP|INVALID^1
+28-08-2024 12:57:24: Tx: ACK
+28-08-2024 12:57:25: Rx: R|2|^^^AMIKAC^Amikacin^Amikacin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:25: Tx: ACK
+28-08-2024 12:57:25: Rx: R|1|^^^AMPICI^Ampicillin^Ampicillin^MIC-BP|INVALID^1
+28-08-2024 12:57:25: Tx: ACK
+28-08-2024 12:57:26: Rx: R|2|^^^AMPICI^Ampicillin^Ampicillin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:26: Tx: ACK
+28-08-2024 12:57:26: Rx: R|1|^^^AMPSUL^Ampicillin/Sulbactam^Amp/Sulb^MIC-BP|INVALID^1
+28-08-2024 12:57:26: Tx: ACK
+28-08-2024 12:57:27: Rx: R|2|^^^AMPSUL^Ampicillin/Sulbactam^Amp/Sulb^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:27: Tx: ACK
+28-08-2024 12:57:27: Rx: R|1|^^^AZTREO^Aztreonam^Aztreonam^MIC-BP|INVALID^0
+28-08-2024 12:57:27: Tx: ACK
+28-08-2024 12:57:28: Rx: R|2|^^^AZTREO^Aztreonam^Aztreonam^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:28: Tx: ACK
+28-08-2024 12:57:28: Rx: R|1|^^^CEFAZO^Cefazolin^Cefazolin^MIC-BP|INVALID^0
+28-08-2024 12:57:28: Tx: ACK
+28-08-2024 12:57:29: Rx: R|2|^^^CEFAZO^Cefazolin^Cefazolin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:29: Tx: ACK
+28-08-2024 12:57:29: Rx: R|1|^^^CEFEPI^Cefepime^Cefepime^MIC-BP|INVALID^0
+28-08-2024 12:57:29: Tx: ACK
+28-08-2024 12:57:30: Rx: R|2|^^^CEFEPI^Cefepime^Cefepime^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:30: Tx: ACK
+28-08-2024 12:57:30: Rx: R|1|^^^CEFTAZ^Ceftazidime^Ceftazidime^MIC-BP|INVALID^0
+28-08-2024 12:57:30: Tx: ACK
+28-08-2024 12:57:31: Rx: R|2|^^^CEFTAZ^Ceftazidime^Ceftazidime^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:31: Tx: ACK
+28-08-2024 12:57:31: Rx: R|1|^^^CEFTRI^Ceftriaxone^Ceftriaxone^MIC-BP|INVALID^0
+28-08-2024 12:57:31: Tx: ACK
+28-08-2024 12:57:32: Rx: R|2|^^^CEFTRI^Ceftriaxone^Ceftriaxone^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:32: Tx: ACK
+28-08-2024 12:57:32: Rx: R|1|^^^CIPROF^Ciprofloxacin^Ciproflox^MIC-BP|INVALID^1
+28-08-2024 12:57:32: Tx: ACK
+28-08-2024 12:57:33: Rx: R|2|^^^CIPROF^Ciprofloxacin^Ciproflox^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:33: Tx: ACK
+28-08-2024 12:57:33: Rx: R|1|^^^DORIPE^Doripenem^Doripenem^MIC-BP|INVALID^0
+28-08-2024 12:57:33: Tx: ACK
+28-08-2024 12:57:34: Rx: R|2|^^^DORIPE^Doripenem^Doripenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:34: Tx: ACK
+28-08-2024 12:57:34: Rx: R|1|^^^ERTAPE^Ertapenem^Ertapenem^MIC-BP|INVALID^0
+28-08-2024 12:57:34: Tx: ACK
+28-08-2024 12:57:35: Rx: R|2|^^^ERTAPE^Ertapenem^Ertapenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:35: Tx: ACK
+28-08-2024 12:57:35: Rx: R|1|^^^GENTAM^Gentamicin^Gentamicin^MIC-BP|INVALID^1
+28-08-2024 12:57:35: Tx: ACK
+28-08-2024 12:57:36: Rx: R|2|^^^GENTAM^Gentamicin^Gentamicin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:36: Tx: ACK
+28-08-2024 12:57:36: Rx: R|1|^^^IMIPEN^Imipenem^Imipenem^MIC-BP|INVALID^0
+28-08-2024 12:57:36: Tx: ACK
+28-08-2024 12:57:37: Rx: R|2|^^^IMIPEN^Imipenem^Imipenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:37: Tx: ACK
+28-08-2024 12:57:37: Rx: R|1|^^^LEVOFL^Levofloxacin^Levofloxacin^MIC-BP|INVALID^0
+28-08-2024 12:57:37: Tx: ACK
+28-08-2024 12:57:38: Rx: R|2|^^^LEVOFL^Levofloxacin^Levofloxacin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:38: Tx: ACK
+28-08-2024 12:57:38: Rx: R|1|^^^MEROPE^Meropenem^Meropenem^MIC-BP|INVALID^0
+28-08-2024 12:57:38: Tx: ACK
+28-08-2024 12:57:39: Rx: R|2|^^^MEROPE^Meropenem^Meropenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:39: Tx: ACK
+28-08-2024 12:57:39: Rx: R|1|^^^MINOCY^Minocycline^Minocycline^MIC-BP|INVALID^0
+28-08-2024 12:57:39: Tx: ACK
+28-08-2024 12:57:40: Rx: R|2|^^^MINOCY^Minocycline^Minocycline^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:40: Tx: ACK
+28-08-2024 12:57:40: Rx: R|1|^^^NITRO^Nitrofurantoin^Nitrofuran^MIC-BP|INVALID^1
+28-08-2024 12:57:40: Tx: ACK
+28-08-2024 12:57:41: Rx: R|2|^^^NITRO^Nitrofurantoin^Nitrofuran^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:41: Tx: ACK
+28-08-2024 12:57:41: Rx: R|1|^^^PIPERA^Piperacillin^Piperacillin^MIC-BP|INVALID^1
+28-08-2024 12:57:41: Tx: ACK
+28-08-2024 12:57:42: Rx: R|2|^^^PIPERA^Piperacillin^Piperacillin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:42: Tx: ACK
+28-08-2024 12:57:42: Rx: R|1|^^^PIPTAZ^Piperacillin/Tazobactam^Pipera/Tazob^MIC-BP|INVALID^0
+28-08-2024 12:57:42: Tx: ACK
+28-08-2024 12:57:43: Rx: R|2|^^^PIPTAZ^Piperacillin/Tazobactam^Pipera/Tazob^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:43: Tx: ACK
+28-08-2024 12:57:44: Rx: R|1|^^^POSCTL^Positive Growth Control^Positive Ctl^MIC-BP|-1.0000^1
+28-08-2024 12:57:44: Tx: ACK
+28-08-2024 12:57:44: Rx: R|2|^^^POSCTL^Positive Growth Control^Positive Ctl^INTERP|INVCTL^Invalid Growth Control
+28-08-2024 12:57:44: Tx: ACK
+28-08-2024 12:57:45: Rx: R|1|^^^TETRA^Tetracycline^Tetracycline^MIC-BP|INVALID^1
+28-08-2024 12:57:45: Tx: ACK
+28-08-2024 12:57:45: Rx: R|2|^^^TETRA^Tetracycline^Tetracycline^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:45: Tx: ACK
+28-08-2024 12:57:46: Rx: R|1|^^^TICCLA^Ticarcillin/Clavulanic Acid^Ticarc/Clav^MIC-BP|INVALID^0
+28-08-2024 12:57:46: Tx: ACK
+28-08-2024 12:57:46: Rx: R|2|^^^TICCLA^Ticarcillin/Clavulanic Acid^Ticarc/Clav^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:46: Tx: ACK
+28-08-2024 12:57:47: Rx: R|1|^^^TIGECY^Tigecycline^Tigecycline^MIC-BP|INVALID^0
+28-08-2024 12:57:47: Tx: ACK
+28-08-2024 12:57:47: Rx: R|2|^^^TIGECY^Tigecycline^Tigecycline^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:47: Tx: ACK
+28-08-2024 12:57:48: Rx: R|1|^^^TOBRAM^Tobramycin^Tobramycin^MIC-BP|INVALID^1
+28-08-2024 12:57:48: Tx: ACK
+28-08-2024 12:57:48: Rx: R|2|^^^TOBRAM^Tobramycin^Tobramycin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:48: Tx: ACK
+28-08-2024 12:57:49: Rx: R|1|^^^TRISUL^Trimethoprim/Sulfamethoxazole^Trim/Sulmeth^MIC-BP|INVALID^1
+28-08-2024 12:57:49: Tx: ACK
+28-08-2024 12:57:49: Rx: R|2|^^^TRISUL^Trimethoprim/Sulfamethoxazole^Trim/Sulmeth^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:57:49: Tx: ACK
+28-08-2024 12:57:50: Rx: O|2|11122233^A^|3^3|^^^DFW-A^GN4F GRAM- MAN MIC/BP^^20240820160824^1^|R||||||N|||20240820160727|BIOC^Biopsy colon|^|||HUMAN^Human||||||F||^|N
+28-08-2024 12:57:50: Tx: ACK
+28-08-2024 12:57:50: Rx: C|1|L|Spec Coded Note 1:^^
+28-08-2024 12:57:50: Tx: ACK
+28-08-2024 12:57:51: Rx: C|2|L|Spec Coded Note 2:^^
+28-08-2024 12:57:51: Tx: ACK
+28-08-2024 12:57:51: Rx: C|3|L|Spec Coded Note 3:^^
+28-08-2024 12:57:51: Tx: ACK
+28-08-2024 12:57:52: Rx: C|4|L|NOTE 1^
+28-08-2024 12:57:52: Tx: ACK
+28-08-2024 12:57:52: Rx: C|5|L|NOTE 2^
+28-08-2024 12:57:52: Tx: ACK
+28-08-2024 12:57:53: Rx: C|6|L|NOTE 3^
+28-08-2024 12:57:53: Tx: ACK
+28-08-2024 12:57:53: Rx: C|7|L|PRELIMID^S.RUBI^Salmonella rubislaw^S.rubislaw
+28-08-2024 12:57:53: Tx: ACK
+28-08-2024 12:57:54: Rx: C|8|L|PRE-DATE^20240820160740
+28-08-2024 12:57:54: Tx: ACK
+28-08-2024 12:57:54: Rx: C|9|L|FINALID^S.RUBI^Salmonella rubislaw^S.rubislaw
+28-08-2024 12:57:54: Tx: ACK
+28-08-2024 12:57:55: Rx: C|10|L|FINAL-DATE^20240820160740
+28-08-2024 12:57:55: Tx: ACK
+28-08-2024 12:57:55: Rx: C|11|L|Spec Coded Note 4:^^
+28-08-2024 12:57:55: Tx: ACK
+28-08-2024 12:57:56: Rx: C|12|L|Spec Coded Note 5:^^
+28-08-2024 12:57:56: Tx: ACK
+28-08-2024 12:57:56: Rx: C|13|L|Spec Coded Note 6:^^
+28-08-2024 12:57:56: Tx: ACK
+28-08-2024 12:57:57: Rx: C|14|L|DUPLICATE^NO
+28-08-2024 12:57:57: Tx: ACK
+28-08-2024 12:57:57: Rx: C|15|L|ISOLATE-COMMENT^
+28-08-2024 12:57:57: Tx: ACK
+28-08-2024 12:57:58: Rx: C|16|L|Iso Coded Note 1:^^
+28-08-2024 12:57:58: Tx: ACK
+28-08-2024 12:57:58: Rx: C|17|L|Iso Coded Note 2:^^
+28-08-2024 12:57:58: Tx: ACK
+28-08-2024 12:57:59: Rx: C|18|L|Iso Coded Note 3:^^
+28-08-2024 12:57:59: Tx: ACK
+28-08-2024 12:57:59: Rx: C|19|L|Iso Coded Note 4:^^
+28-08-2024 12:57:59: Tx: ACK
+28-08-2024 12:58:00: Rx: R|1|^^^AMIKAC^Amikacin^Amikacin^MIC-BP|INVALID^1
+28-08-2024 12:58:00: Tx: ACK
+28-08-2024 12:58:00: Rx: R|2|^^^AMIKAC^Amikacin^Amikacin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:00: Tx: ACK
+28-08-2024 12:58:01: Rx: R|1|^^^AMPICI^Ampicillin^Ampicillin^MIC-BP|INVALID^1
+28-08-2024 12:58:01: Tx: ACK
+28-08-2024 12:58:01: Rx: R|2|^^^AMPICI^Ampicillin^Ampicillin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:01: Tx: ACK
+28-08-2024 12:58:02: Rx: R|1|^^^AMPSUL^Ampicillin/Sulbactam^Amp/Sulb^MIC-BP|INVALID^1
+28-08-2024 12:58:02: Tx: ACK
+28-08-2024 12:58:02: Rx: R|2|^^^AMPSUL^Ampicillin/Sulbactam^Amp/Sulb^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:02: Tx: ACK
+28-08-2024 12:58:03: Rx: R|1|^^^AZTREO^Aztreonam^Aztreonam^MIC-BP|INVALID^0
+28-08-2024 12:58:03: Tx: ACK
+28-08-2024 12:58:03: Rx: R|2|^^^AZTREO^Aztreonam^Aztreonam^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:03: Tx: ACK
+28-08-2024 12:58:04: Rx: R|1|^^^CEFAZO^Cefazolin^Cefazolin^MIC-BP|INVALID^0
+28-08-2024 12:58:04: Tx: ACK
+28-08-2024 12:58:04: Rx: R|2|^^^CEFAZO^Cefazolin^Cefazolin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:04: Tx: ACK
+28-08-2024 12:58:05: Rx: R|1|^^^CEFEPI^Cefepime^Cefepime^MIC-BP|INVALID^0
+28-08-2024 12:58:05: Tx: ACK
+28-08-2024 12:58:05: Rx: R|2|^^^CEFEPI^Cefepime^Cefepime^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:05: Tx: ACK
+28-08-2024 12:58:06: Rx: R|1|^^^CEFTAZ^Ceftazidime^Ceftazidime^MIC-BP|INVALID^0
+28-08-2024 12:58:06: Tx: ACK
+28-08-2024 12:58:06: Rx: R|2|^^^CEFTAZ^Ceftazidime^Ceftazidime^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:06: Tx: ACK
+28-08-2024 12:58:07: Rx: R|1|^^^CEFTRI^Ceftriaxone^Ceftriaxone^MIC-BP|INVALID^0
+28-08-2024 12:58:07: Tx: ACK
+28-08-2024 12:58:08: Rx: R|2|^^^CEFTRI^Ceftriaxone^Ceftriaxone^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:08: Tx: ACK
+28-08-2024 12:58:08: Rx: R|1|^^^CIPROF^Ciprofloxacin^Ciproflox^MIC-BP|INVALID^1
+28-08-2024 12:58:08: Tx: ACK
+28-08-2024 12:58:09: Rx: R|2|^^^CIPROF^Ciprofloxacin^Ciproflox^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:09: Tx: ACK
+28-08-2024 12:58:09: Rx: R|1|^^^DORIPE^Doripenem^Doripenem^MIC-BP|INVALID^0
+28-08-2024 12:58:09: Tx: ACK
+28-08-2024 12:58:10: Rx: R|2|^^^DORIPE^Doripenem^Doripenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:10: Tx: ACK
+28-08-2024 12:58:10: Rx: R|1|^^^ERTAPE^Ertapenem^Ertapenem^MIC-BP|INVALID^0
+28-08-2024 12:58:10: Tx: ACK
+28-08-2024 12:58:11: Rx: R|2|^^^ERTAPE^Ertapenem^Ertapenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:11: Tx: ACK
+28-08-2024 12:58:11: Rx: R|1|^^^GENTAM^Gentamicin^Gentamicin^MIC-BP|INVALID^1
+28-08-2024 12:58:11: Tx: ACK
+28-08-2024 12:58:12: Rx: R|2|^^^GENTAM^Gentamicin^Gentamicin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:12: Tx: ACK
+28-08-2024 12:58:12: Rx: R|1|^^^IMIPEN^Imipenem^Imipenem^MIC-BP|INVALID^0
+28-08-2024 12:58:12: Tx: ACK
+28-08-2024 12:58:13: Rx: R|2|^^^IMIPEN^Imipenem^Imipenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:13: Tx: ACK
+28-08-2024 12:58:13: Rx: R|1|^^^LEVOFL^Levofloxacin^Levofloxacin^MIC-BP|INVALID^0
+28-08-2024 12:58:13: Tx: ACK
+28-08-2024 12:58:14: Rx: R|2|^^^LEVOFL^Levofloxacin^Levofloxacin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:14: Tx: ACK
+28-08-2024 12:58:14: Rx: R|1|^^^MEROPE^Meropenem^Meropenem^MIC-BP|INVALID^0
+28-08-2024 12:58:14: Tx: ACK
+28-08-2024 12:58:15: Rx: R|2|^^^MEROPE^Meropenem^Meropenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:15: Tx: ACK
+28-08-2024 12:58:15: Rx: R|1|^^^MINOCY^Minocycline^Minocycline^MIC-BP|INVALID^0
+28-08-2024 12:58:15: Tx: ACK
+28-08-2024 12:58:16: Rx: R|2|^^^MINOCY^Minocycline^Minocycline^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:16: Tx: ACK
+28-08-2024 12:58:16: Rx: R|1|^^^NITRO^Nitrofurantoin^Nitrofuran^MIC-BP|INVALID^1
+28-08-2024 12:58:16: Tx: ACK
+28-08-2024 12:58:17: Rx: R|2|^^^NITRO^Nitrofurantoin^Nitrofuran^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:17: Tx: ACK
+28-08-2024 12:58:17: Rx: R|1|^^^PIPERA^Piperacillin^Piperacillin^MIC-BP|INVALID^1
+28-08-2024 12:58:17: Tx: ACK
+28-08-2024 12:58:18: Rx: R|2|^^^PIPERA^Piperacillin^Piperacillin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:18: Tx: ACK
+28-08-2024 12:58:18: Rx: R|1|^^^PIPTAZ^Piperacillin/Tazobactam^Pipera/Tazob^MIC-BP|INVALID^0
+28-08-2024 12:58:18: Tx: ACK
+28-08-2024 12:58:19: Rx: R|2|^^^PIPTAZ^Piperacillin/Tazobactam^Pipera/Tazob^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:19: Tx: ACK
+28-08-2024 12:58:19: Rx: R|1|^^^POSCTL^Positive Growth Control^Positive Ctl^MIC-BP|-1.0000^1
+28-08-2024 12:58:19: Tx: ACK
+28-08-2024 12:58:20: Rx: R|2|^^^POSCTL^Positive Growth Control^Positive Ctl^INTERP|INVCTL^Invalid Growth Control
+28-08-2024 12:58:20: Tx: ACK
+28-08-2024 12:58:20: Rx: R|1|^^^TETRA^Tetracycline^Tetracycline^MIC-BP|INVALID^1
+28-08-2024 12:58:20: Tx: ACK
+28-08-2024 12:58:21: Rx: R|2|^^^TETRA^Tetracycline^Tetracycline^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:21: Tx: ACK
+28-08-2024 12:58:21: Rx: R|1|^^^TICCLA^Ticarcillin/Clavulanic Acid^Ticarc/Clav^MIC-BP|INVALID^0
+28-08-2024 12:58:21: Tx: ACK
+28-08-2024 12:58:22: Rx: R|2|^^^TICCLA^Ticarcillin/Clavulanic Acid^Ticarc/Clav^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:22: Tx: ACK
+28-08-2024 12:58:22: Rx: R|1|^^^TIGECY^Tigecycline^Tigecycline^MIC-BP|INVALID^0
+28-08-2024 12:58:22: Tx: ACK
+28-08-2024 12:58:23: Rx: R|2|^^^TIGECY^Tigecycline^Tigecycline^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:23: Tx: ACK
+28-08-2024 12:58:23: Rx: R|1|^^^TOBRAM^Tobramycin^Tobramycin^MIC-BP|INVALID^1
+28-08-2024 12:58:23: Tx: ACK
+28-08-2024 12:58:24: Rx: R|2|^^^TOBRAM^Tobramycin^Tobramycin^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:24: Tx: ACK
+28-08-2024 12:58:24: Rx: R|1|^^^TRISUL^Trimethoprim/Sulfamethoxazole^Trim/Sulmeth^MIC-BP|INVALID^1
+28-08-2024 12:58:24: Tx: ACK
+28-08-2024 12:58:25: Rx: R|2|^^^TRISUL^Trimethoprim/Sulfamethoxazole^Trim/Sulmeth^INTERP|NOMIC^No MIC Possible
+28-08-2024 12:58:25: Tx: ACK
+28-08-2024 12:58:25: Rx: L|1|N
+28-08-2024 12:58:25: Tx: ACK
+28-08-2024 12:58:26: Rx: EOT
+28-08-2024 12:58:26: *************END TRANSMIT****************
+28-08-2024 01:02:18: COM6 Open 
+28-08-2024 01:03:42: COM6 Open C:\Users\ARDISON\Documents\Visual Studio 2015\Projects\mAPI\mAPI\bin\Debug\LIS\Result
+28-08-2024 01:04:11: *************START TRANSMIT****************
+28-08-2024 01:04:11: Rx: ENQ
+28-08-2024 01:04:11: Tx: ACK
+28-08-2024 01:04:12: Rx: H|\^&||||||||||P|NCCLS LIS2-A|20240828130521
+28-08-2024 01:04:12: Tx: ACK
+28-08-2024 01:04:12: Rx: P|1|112333||1|DELA CRUZ^JUAN^SANTOS|||M|||||^|-1|Y|||||||
+28-08-2024 01:04:12: Tx: ACK
+28-08-2024 01:04:13: Rx: C|1|P|Pat Coded Note 1:^^
+28-08-2024 01:04:13: Tx: ACK
+28-08-2024 01:04:43: COM6 Open C:\Users\ARDISON\Documents\Visual Studio 2015\Projects\mAPI\mAPI\bin\Debug\LIS\Result
+28-08-2024 01:04:56: *************START TRANSMIT****************
+28-08-2024 01:04:56: Rx: ENQ
+28-08-2024 01:04:56: Tx: ACK
+28-08-2024 01:04:57: Rx: H|\^&||||||||||P|NCCLS LIS2-A|20240828130610
+28-08-2024 01:04:57: Tx: ACK
+28-08-2024 01:04:57: Rx: P|1|2222-33250||2|DOE^JANE^|||F|||||^|-1|Y|||||||
+28-08-2024 01:04:57: Tx: ACK
+28-08-2024 01:04:58: Rx: C|1|P|Pat Coded Note 1:^^
+28-08-2024 01:04:58: Tx: ACK
+28-08-2024 01:04:58: Rx: C|2|P|Pat Coded Note 2:^^
+28-08-2024 01:04:58: Tx: ACK
+28-08-2024 01:04:59: Rx: C|3|P|Pat Coded Note 3:^^
+28-08-2024 01:04:59: Tx: ACK
+28-08-2024 01:04:59: Rx: C|4|P|Pat Coded Note 4:^^
+28-08-2024 01:04:59: Tx: ACK
+28-08-2024 01:05:00: Rx: C|5|P|NOTE 1^
+28-08-2024 01:05:00: Tx: ACK
+28-08-2024 01:05:00: Rx: C|6|P|NOTE 2^
+28-08-2024 01:05:00: Tx: ACK
+28-08-2024 01:05:01: Rx: C|7|P|NOTE 3^
+28-08-2024 01:05:01: Tx: ACK
+28-08-2024 01:05:01: Rx: C|8|P|Pat Coded Note 5:^^
+28-08-2024 01:05:01: Tx: ACK
+28-08-2024 01:05:02: Rx: C|9|P|Pat Coded Note 6:^^
+28-08-2024 01:05:02: Tx: ACK
+28-08-2024 01:05:02: Rx: O|1|11122233^A^|3^3|^^^DFW-A^GN4F GRAM- MAN MIC/BP^^20240820160824^1^|R||||||N|||20240820160727|BIOC^Biopsy colon|^|||HUMAN^Human||||||F||^|N
+28-08-2024 01:05:02: Tx: ACK
+28-08-2024 01:05:03: Rx: C|1|L|Spec Coded Note 1:^^
+28-08-2024 01:05:03: Tx: ACK
+28-08-2024 01:05:03: Rx: C|2|L|Spec Coded Note 2:^^
+28-08-2024 01:05:03: Tx: ACK
+28-08-2024 01:05:04: Rx: C|3|L|Spec Coded Note 3:^^
+28-08-2024 01:05:04: Tx: ACK
+28-08-2024 01:05:04: Rx: C|4|L|NOTE 1^
+28-08-2024 01:05:04: Tx: ACK
+28-08-2024 01:05:05: Rx: C|5|L|NOTE 2^
+28-08-2024 01:05:05: Tx: ACK
+28-08-2024 01:05:05: Rx: C|6|L|NOTE 3^
+28-08-2024 01:05:05: Tx: ACK
+28-08-2024 01:05:06: Rx: C|7|L|PRELIMID^S.RUBI^Salmonella rubislaw^S.rubislaw
+28-08-2024 01:05:06: Tx: ACK
+28-08-2024 01:05:06: Rx: C|8|L|PRE-DATE^20240820160740
+28-08-2024 01:05:06: Tx: ACK
+28-08-2024 01:05:07: Rx: C|9|L|FINALID^S.RUBI^Salmonella rubislaw^S.rubislaw
+28-08-2024 01:05:07: Tx: ACK
+28-08-2024 01:05:07: Rx: C|10|L|FINAL-DATE^20240820160740
+28-08-2024 01:05:07: Tx: ACK
+28-08-2024 01:05:08: Rx: C|11|L|Spec Coded Note 4:^^
+28-08-2024 01:05:08: Tx: ACK
+28-08-2024 01:05:08: Rx: C|12|L|Spec Coded Note 5:^^
+28-08-2024 01:05:08: Tx: ACK
+28-08-2024 01:05:09: Rx: C|13|L|Spec Coded Note 6:^^
+28-08-2024 01:05:09: Tx: ACK
+28-08-2024 01:05:09: Rx: C|14|L|DUPLICATE^NO
+28-08-2024 01:05:09: Tx: ACK
+28-08-2024 01:05:10: Rx: C|15|L|ISOLATE-COMMENT^
+28-08-2024 01:05:10: Tx: ACK
+28-08-2024 01:05:10: Rx: C|16|L|Iso Coded Note 1:^^
+28-08-2024 01:05:10: Tx: ACK
+28-08-2024 01:05:11: Rx: C|17|L|Iso Coded Note 2:^^
+28-08-2024 01:05:11: Tx: ACK
+28-08-2024 01:05:11: Rx: C|18|L|Iso Coded Note 3:^^
+28-08-2024 01:05:11: Tx: ACK
+28-08-2024 01:05:12: Rx: C|19|L|Iso Coded Note 4:^^
+28-08-2024 01:05:12: Tx: ACK
+28-08-2024 01:05:12: Rx: R|1|^^^AMIKAC^Amikacin^Amikacin^MIC-BP|INVALID^1
+28-08-2024 01:05:12: Tx: ACK
+28-08-2024 01:05:13: Rx: R|2|^^^AMIKAC^Amikacin^Amikacin^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:13: Tx: ACK
+28-08-2024 01:05:13: Rx: R|1|^^^AMPICI^Ampicillin^Ampicillin^MIC-BP|INVALID^1
+28-08-2024 01:05:13: Tx: ACK
+28-08-2024 01:05:14: Rx: R|2|^^^AMPICI^Ampicillin^Ampicillin^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:14: Tx: ACK
+28-08-2024 01:05:14: Rx: R|1|^^^AMPSUL^Ampicillin/Sulbactam^Amp/Sulb^MIC-BP|INVALID^1
+28-08-2024 01:05:14: Tx: ACK
+28-08-2024 01:05:15: Rx: R|2|^^^AMPSUL^Ampicillin/Sulbactam^Amp/Sulb^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:15: Tx: ACK
+28-08-2024 01:05:15: Rx: R|1|^^^AZTREO^Aztreonam^Aztreonam^MIC-BP|INVALID^0
+28-08-2024 01:05:15: Tx: ACK
+28-08-2024 01:05:16: Rx: R|2|^^^AZTREO^Aztreonam^Aztreonam^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:16: Tx: ACK
+28-08-2024 01:05:17: Rx: R|1|^^^CEFAZO^Cefazolin^Cefazolin^MIC-BP|INVALID^0
+28-08-2024 01:05:17: Tx: ACK
+28-08-2024 01:05:17: Rx: R|2|^^^CEFAZO^Cefazolin^Cefazolin^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:17: Tx: ACK
+28-08-2024 01:05:18: Rx: R|1|^^^CEFEPI^Cefepime^Cefepime^MIC-BP|INVALID^0
+28-08-2024 01:05:18: Tx: ACK
+28-08-2024 01:05:18: Rx: R|2|^^^CEFEPI^Cefepime^Cefepime^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:18: Tx: ACK
+28-08-2024 01:05:19: Rx: R|1|^^^CEFTAZ^Ceftazidime^Ceftazidime^MIC-BP|INVALID^0
+28-08-2024 01:05:19: Tx: ACK
+28-08-2024 01:05:19: Rx: R|2|^^^CEFTAZ^Ceftazidime^Ceftazidime^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:19: Tx: ACK
+28-08-2024 01:05:20: Rx: R|1|^^^CEFTRI^Ceftriaxone^Ceftriaxone^MIC-BP|INVALID^0
+28-08-2024 01:05:20: Tx: ACK
+28-08-2024 01:05:20: Rx: R|2|^^^CEFTRI^Ceftriaxone^Ceftriaxone^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:20: Tx: ACK
+28-08-2024 01:05:21: Rx: R|1|^^^CIPROF^Ciprofloxacin^Ciproflox^MIC-BP|INVALID^1
+28-08-2024 01:05:21: Tx: ACK
+28-08-2024 01:05:21: Rx: R|2|^^^CIPROF^Ciprofloxacin^Ciproflox^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:21: Tx: ACK
+28-08-2024 01:05:22: Rx: R|1|^^^DORIPE^Doripenem^Doripenem^MIC-BP|INVALID^0
+28-08-2024 01:05:22: Tx: ACK
+28-08-2024 01:05:22: Rx: R|2|^^^DORIPE^Doripenem^Doripenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:22: Tx: ACK
+28-08-2024 01:05:23: Rx: R|1|^^^ERTAPE^Ertapenem^Ertapenem^MIC-BP|INVALID^0
+28-08-2024 01:05:23: Tx: ACK
+28-08-2024 01:05:23: Rx: R|2|^^^ERTAPE^Ertapenem^Ertapenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:23: Tx: ACK
+28-08-2024 01:05:24: Rx: R|1|^^^GENTAM^Gentamicin^Gentamicin^MIC-BP|INVALID^1
+28-08-2024 01:05:24: Tx: ACK
+28-08-2024 01:05:24: Rx: R|2|^^^GENTAM^Gentamicin^Gentamicin^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:24: Tx: ACK
+28-08-2024 01:05:25: Rx: R|1|^^^IMIPEN^Imipenem^Imipenem^MIC-BP|INVALID^0
+28-08-2024 01:05:25: Tx: ACK
+28-08-2024 01:05:25: Rx: R|2|^^^IMIPEN^Imipenem^Imipenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:25: Tx: ACK
+28-08-2024 01:05:26: Rx: R|1|^^^LEVOFL^Levofloxacin^Levofloxacin^MIC-BP|INVALID^0
+28-08-2024 01:05:26: Tx: ACK
+28-08-2024 01:05:26: Rx: R|2|^^^LEVOFL^Levofloxacin^Levofloxacin^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:26: Tx: ACK
+28-08-2024 01:05:27: Rx: R|1|^^^MEROPE^Meropenem^Meropenem^MIC-BP|INVALID^0
+28-08-2024 01:05:27: Tx: ACK
+28-08-2024 01:05:27: Rx: R|2|^^^MEROPE^Meropenem^Meropenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:27: Tx: ACK
+28-08-2024 01:05:28: Rx: R|1|^^^MINOCY^Minocycline^Minocycline^MIC-BP|INVALID^0
+28-08-2024 01:05:28: Tx: ACK
+28-08-2024 01:05:28: Rx: R|2|^^^MINOCY^Minocycline^Minocycline^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:28: Tx: ACK
+28-08-2024 01:05:29: Rx: R|1|^^^NITRO^Nitrofurantoin^Nitrofuran^MIC-BP|INVALID^1
+28-08-2024 01:05:29: Tx: ACK
+28-08-2024 01:05:29: Rx: R|2|^^^NITRO^Nitrofurantoin^Nitrofuran^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:29: Tx: ACK
+28-08-2024 01:05:30: Rx: R|1|^^^PIPERA^Piperacillin^Piperacillin^MIC-BP|INVALID^1
+28-08-2024 01:05:30: Tx: ACK
+28-08-2024 01:05:30: Rx: R|2|^^^PIPERA^Piperacillin^Piperacillin^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:30: Tx: ACK
+28-08-2024 01:05:31: Rx: R|1|^^^PIPTAZ^Piperacillin/Tazobactam^Pipera/Tazob^MIC-BP|INVALID^0
+28-08-2024 01:05:31: Tx: ACK
+28-08-2024 01:05:31: Rx: R|2|^^^PIPTAZ^Piperacillin/Tazobactam^Pipera/Tazob^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:31: Tx: ACK
+28-08-2024 01:05:32: Rx: R|1|^^^POSCTL^Positive Growth Control^Positive Ctl^MIC-BP|-1.0000^1
+28-08-2024 01:05:32: Tx: ACK
+28-08-2024 01:05:32: Rx: R|2|^^^POSCTL^Positive Growth Control^Positive Ctl^INTERP|INVCTL^Invalid Growth Control
+28-08-2024 01:05:32: Tx: ACK
+28-08-2024 01:05:33: Rx: R|1|^^^TETRA^Tetracycline^Tetracycline^MIC-BP|INVALID^1
+28-08-2024 01:05:33: Tx: ACK
+28-08-2024 01:05:33: Rx: R|2|^^^TETRA^Tetracycline^Tetracycline^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:33: Tx: ACK
+28-08-2024 01:05:34: Rx: R|1|^^^TICCLA^Ticarcillin/Clavulanic Acid^Ticarc/Clav^MIC-BP|INVALID^0
+28-08-2024 01:05:34: Tx: ACK
+28-08-2024 01:05:34: Rx: R|2|^^^TICCLA^Ticarcillin/Clavulanic Acid^Ticarc/Clav^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:34: Tx: ACK
+28-08-2024 01:05:35: Rx: R|1|^^^TIGECY^Tigecycline^Tigecycline^MIC-BP|INVALID^0
+28-08-2024 01:05:35: Tx: ACK
+28-08-2024 01:05:35: Rx: R|2|^^^TIGECY^Tigecycline^Tigecycline^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:35: Tx: ACK
+28-08-2024 01:05:36: Rx: R|1|^^^TOBRAM^Tobramycin^Tobramycin^MIC-BP|INVALID^1
+28-08-2024 01:05:36: Tx: ACK
+28-08-2024 01:05:36: Rx: R|2|^^^TOBRAM^Tobramycin^Tobramycin^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:36: Tx: ACK
+28-08-2024 01:05:37: Rx: R|1|^^^TRISUL^Trimethoprim/Sulfamethoxazole^Trim/Sulmeth^MIC-BP|INVALID^1
+28-08-2024 01:05:37: Tx: ACK
+28-08-2024 01:05:37: Rx: R|2|^^^TRISUL^Trimethoprim/Sulfamethoxazole^Trim/Sulmeth^INTERP|NOMIC^No MIC Possible
+28-08-2024 01:05:37: Tx: ACK
+28-08-2024 01:05:38: Rx: L|1|N
+28-08-2024 01:05:38: Tx: ACK
+28-08-2024 01:05:38: Rx: EOT
+28-08-2024 01:05:38: *************END TRANSMIT****************
+28-08-2024 04:14:29: COM3 Open C:\Users\ARDISON\Documents\Visual Studio 2015\Projects\mAPI\mAPI\bin\Debug\LIS\Result
+28-08-2024 04:18:12: COM3 Open C:\Users\ARDISON\Documents\Visual Studio 2015\Projects\mAPI\mAPI\bin\Debug\LIS\Result
+28-08-2024 04:18:32: COM3 Open C:\Users\ARDISON\Documents\Visual Studio 2015\Projects\mAPI\mAPI\bin\Debug\LIS\Result
+28-08-2024 04:19:33: COM3 Open C:\Users\ARDISON\Documents\Visual Studio 2015\Projects\mAPI\mAPI\bin\Debug\LIS\Result
+28-08-2024 04:20:06: COM6 Open C:\Users\ARDISON\Documents\Visual Studio 2015\Projects\mAPI\mAPI\bin\Debug\LIS\Result
+28-08-2024 04:20:20: *************START TRANSMIT****************
+28-08-2024 04:20:20: Rx: ENQ
+28-08-2024 04:20:20: Tx: ACK
+28-08-2024 04:20:21: Rx: H|\^&||||||||||P|NCCLS LIS2-A|20240828162134
+28-08-2024 04:20:21: Tx: ACK
+28-08-2024 04:20:21: Rx: P|1|2222-33250||2|DOE^JANE^|||F|||||^|-1|Y|||||||
+28-08-2024 04:20:21: Tx: ACK
+28-08-2024 04:20:22: Rx: C|1|P|Pat Coded Note 1:^^
+28-08-2024 04:20:22: Tx: ACK
+28-08-2024 04:20:22: Rx: C|2|P|Pat Coded Note 2:^^
+28-08-2024 04:20:22: Tx: ACK
+28-08-2024 04:20:23: Rx: C|3|P|Pat Coded Note 3:^^
+28-08-2024 04:20:23: Tx: ACK
+28-08-2024 04:20:23: Rx: C|4|P|Pat Coded Note 4:^^
+28-08-2024 04:20:23: Tx: ACK
+28-08-2024 04:20:24: Rx: C|5|P|NOTE 1^
+28-08-2024 04:20:24: Tx: ACK
+28-08-2024 04:20:24: Rx: C|6|P|NOTE 2^
+28-08-2024 04:20:24: Tx: ACK
+28-08-2024 04:20:25: Rx: C|7|P|NOTE 3^
+28-08-2024 04:20:25: Tx: ACK
+28-08-2024 04:20:25: Rx: C|8|P|Pat Coded Note 5:^^
+28-08-2024 04:20:25: Tx: ACK
+28-08-2024 04:20:26: Rx: C|9|P|Pat Coded Note 6:^^
+28-08-2024 04:20:26: Tx: ACK
+28-08-2024 04:20:26: Rx: O|1|11122233^A^|3^3|^^^DFW-A^GN4F GRAM- MAN MIC/BP^^20240820160824^1^|R||||||N|||20240820160727|BIOC^Biopsy colon|^|||HUMAN^Human||||||F||^|N
+28-08-2024 04:20:26: Tx: ACK
+28-08-2024 04:20:27: Rx: C|1|L|Spec Coded Note 1:^^
+28-08-2024 04:20:27: Tx: ACK
+28-08-2024 04:20:27: Rx: C|2|L|Spec Coded Note 2:^^
+28-08-2024 04:20:27: Tx: ACK
+28-08-2024 04:20:28: Rx: C|3|L|Spec Coded Note 3:^^
+28-08-2024 04:20:28: Tx: ACK
+28-08-2024 04:20:28: Rx: C|4|L|NOTE 1^
+28-08-2024 04:20:28: Tx: ACK
+28-08-2024 04:20:29: Rx: C|5|L|NOTE 2^
+28-08-2024 04:20:29: Tx: ACK
+28-08-2024 04:20:30: Rx: C|6|L|NOTE 3^
+28-08-2024 04:20:30: Tx: ACK
+28-08-2024 04:20:30: Rx: C|7|L|PRELIMID^S.RUBI^Salmonella rubislaw^S.rubislaw
+28-08-2024 04:20:30: Tx: ACK
+28-08-2024 04:20:31: Rx: C|8|L|PRE-DATE^20240820160740
+28-08-2024 04:20:31: Tx: ACK
+28-08-2024 04:20:31: Rx: C|9|L|FINALID^S.RUBI^Salmonella rubislaw^S.rubislaw
+28-08-2024 04:20:31: Tx: ACK
+28-08-2024 04:20:32: Rx: C|10|L|FINAL-DATE^20240820160740
+28-08-2024 04:20:32: Tx: ACK
+28-08-2024 04:20:32: Rx: C|11|L|Spec Coded Note 4:^^
+28-08-2024 04:20:32: Tx: ACK
+28-08-2024 04:20:33: Rx: C|12|L|Spec Coded Note 5:^^
+28-08-2024 04:20:33: Tx: ACK
+28-08-2024 04:20:33: Rx: C|13|L|Spec Coded Note 6:^^
+28-08-2024 04:20:33: Tx: ACK
+28-08-2024 04:20:34: Rx: C|14|L|DUPLICATE^NO
+28-08-2024 04:20:34: Tx: ACK
+28-08-2024 04:20:34: Rx: C|15|L|ISOLATE-COMMENT^
+28-08-2024 04:20:34: Tx: ACK
+28-08-2024 04:20:35: Rx: C|16|L|Iso Coded Note 1:^^
+28-08-2024 04:20:35: Tx: ACK
+28-08-2024 04:20:35: Rx: C|17|L|Iso Coded Note 2:^^
+28-08-2024 04:20:35: Tx: ACK
+28-08-2024 04:20:36: Rx: C|18|L|Iso Coded Note 3:^^
+28-08-2024 04:20:36: Tx: ACK
+28-08-2024 04:20:36: Rx: C|19|L|Iso Coded Note 4:^^
+28-08-2024 04:20:36: Tx: ACK
+28-08-2024 04:20:37: Rx: R|1|^^^AMIKAC^Amikacin^Amikacin^MIC-BP|INVALID^1
+28-08-2024 04:20:37: Tx: ACK
+28-08-2024 04:20:37: Rx: R|2|^^^AMIKAC^Amikacin^Amikacin^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:37: Tx: ACK
+28-08-2024 04:20:38: Rx: R|1|^^^AMPICI^Ampicillin^Ampicillin^MIC-BP|INVALID^1
+28-08-2024 04:20:38: Tx: ACK
+28-08-2024 04:20:38: Rx: R|2|^^^AMPICI^Ampicillin^Ampicillin^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:38: Tx: ACK
+28-08-2024 04:20:39: Rx: R|1|^^^AMPSUL^Ampicillin/Sulbactam^Amp/Sulb^MIC-BP|INVALID^1
+28-08-2024 04:20:39: Tx: ACK
+28-08-2024 04:20:39: Rx: R|2|^^^AMPSUL^Ampicillin/Sulbactam^Amp/Sulb^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:39: Tx: ACK
+28-08-2024 04:20:40: Rx: R|1|^^^AZTREO^Aztreonam^Aztreonam^MIC-BP|INVALID^0
+28-08-2024 04:20:40: Tx: ACK
+28-08-2024 04:20:40: Rx: R|2|^^^AZTREO^Aztreonam^Aztreonam^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:40: Tx: ACK
+28-08-2024 04:20:41: Rx: R|1|^^^CEFAZO^Cefazolin^Cefazolin^MIC-BP|INVALID^0
+28-08-2024 04:20:41: Tx: ACK
+28-08-2024 04:20:41: Rx: R|2|^^^CEFAZO^Cefazolin^Cefazolin^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:41: Tx: ACK
+28-08-2024 04:20:42: Rx: R|1|^^^CEFEPI^Cefepime^Cefepime^MIC-BP|INVALID^0
+28-08-2024 04:20:42: Tx: ACK
+28-08-2024 04:20:42: Rx: R|2|^^^CEFEPI^Cefepime^Cefepime^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:42: Tx: ACK
+28-08-2024 04:20:43: Rx: R|1|^^^CEFTAZ^Ceftazidime^Ceftazidime^MIC-BP|INVALID^0
+28-08-2024 04:20:43: Tx: ACK
+28-08-2024 04:20:43: Rx: R|2|^^^CEFTAZ^Ceftazidime^Ceftazidime^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:43: Tx: ACK
+28-08-2024 04:20:44: Rx: R|1|^^^CEFTRI^Ceftriaxone^Ceftriaxone^MIC-BP|INVALID^0
+28-08-2024 04:20:44: Tx: ACK
+28-08-2024 04:20:44: Rx: R|2|^^^CEFTRI^Ceftriaxone^Ceftriaxone^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:44: Tx: ACK
+28-08-2024 04:20:45: Rx: R|1|^^^CIPROF^Ciprofloxacin^Ciproflox^MIC-BP|INVALID^1
+28-08-2024 04:20:45: Tx: ACK
+28-08-2024 04:20:45: Rx: R|2|^^^CIPROF^Ciprofloxacin^Ciproflox^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:45: Tx: ACK
+28-08-2024 04:20:46: Rx: R|1|^^^DORIPE^Doripenem^Doripenem^MIC-BP|INVALID^0
+28-08-2024 04:20:46: Tx: ACK
+28-08-2024 04:20:46: Rx: R|2|^^^DORIPE^Doripenem^Doripenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:46: Tx: ACK
+28-08-2024 04:20:47: Rx: R|1|^^^ERTAPE^Ertapenem^Ertapenem^MIC-BP|INVALID^0
+28-08-2024 04:20:47: Tx: ACK
+28-08-2024 04:20:47: Rx: R|2|^^^ERTAPE^Ertapenem^Ertapenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:47: Tx: ACK
+28-08-2024 04:20:48: Rx: R|1|^^^GENTAM^Gentamicin^Gentamicin^MIC-BP|INVALID^1
+28-08-2024 04:20:48: Tx: ACK
+28-08-2024 04:20:48: Rx: R|2|^^^GENTAM^Gentamicin^Gentamicin^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:48: Tx: ACK
+28-08-2024 04:20:49: Rx: R|1|^^^IMIPEN^Imipenem^Imipenem^MIC-BP|INVALID^0
+28-08-2024 04:20:49: Tx: ACK
+28-08-2024 04:20:49: Rx: R|2|^^^IMIPEN^Imipenem^Imipenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:49: Tx: ACK
+28-08-2024 04:20:50: Rx: R|1|^^^LEVOFL^Levofloxacin^Levofloxacin^MIC-BP|INVALID^0
+28-08-2024 04:20:50: Tx: ACK
+28-08-2024 04:20:50: Rx: R|2|^^^LEVOFL^Levofloxacin^Levofloxacin^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:50: Tx: ACK
+28-08-2024 04:20:51: Rx: R|1|^^^MEROPE^Meropenem^Meropenem^MIC-BP|INVALID^0
+28-08-2024 04:20:51: Tx: ACK
+28-08-2024 04:20:51: Rx: R|2|^^^MEROPE^Meropenem^Meropenem^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:51: Tx: ACK
+28-08-2024 04:20:52: Rx: R|1|^^^MINOCY^Minocycline^Minocycline^MIC-BP|INVALID^0
+28-08-2024 04:20:52: Tx: ACK
+28-08-2024 04:20:53: Rx: R|2|^^^MINOCY^Minocycline^Minocycline^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:53: Tx: ACK
+28-08-2024 04:20:53: Rx: R|1|^^^NITRO^Nitrofurantoin^Nitrofuran^MIC-BP|INVALID^1
+28-08-2024 04:20:53: Tx: ACK
+28-08-2024 04:20:54: Rx: R|2|^^^NITRO^Nitrofurantoin^Nitrofuran^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:54: Tx: ACK
+28-08-2024 04:20:54: Rx: R|1|^^^PIPERA^Piperacillin^Piperacillin^MIC-BP|INVALID^1
+28-08-2024 04:20:54: Tx: ACK
+28-08-2024 04:20:55: Rx: R|2|^^^PIPERA^Piperacillin^Piperacillin^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:55: Tx: ACK
+28-08-2024 04:20:55: Rx: R|1|^^^PIPTAZ^Piperacillin/Tazobactam^Pipera/Tazob^MIC-BP|INVALID^0
+28-08-2024 04:20:55: Tx: ACK
+28-08-2024 04:20:56: Rx: R|2|^^^PIPTAZ^Piperacillin/Tazobactam^Pipera/Tazob^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:56: Tx: ACK
+28-08-2024 04:20:56: Rx: R|1|^^^POSCTL^Positive Growth Control^Positive Ctl^MIC-BP|-1.0000^1
+28-08-2024 04:20:56: Tx: ACK
+28-08-2024 04:20:57: Rx: R|2|^^^POSCTL^Positive Growth Control^Positive Ctl^INTERP|INVCTL^Invalid Growth Control
+28-08-2024 04:20:57: Tx: ACK
+28-08-2024 04:20:57: Rx: R|1|^^^TETRA^Tetracycline^Tetracycline^MIC-BP|INVALID^1
+28-08-2024 04:20:57: Tx: ACK
+28-08-2024 04:20:58: Rx: R|2|^^^TETRA^Tetracycline^Tetracycline^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:58: Tx: ACK
+28-08-2024 04:20:58: Rx: R|1|^^^TICCLA^Ticarcillin/Clavulanic Acid^Ticarc/Clav^MIC-BP|INVALID^0
+28-08-2024 04:20:58: Tx: ACK
+28-08-2024 04:20:59: Rx: R|2|^^^TICCLA^Ticarcillin/Clavulanic Acid^Ticarc/Clav^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:20:59: Tx: ACK
+28-08-2024 04:20:59: Rx: R|1|^^^TIGECY^Tigecycline^Tigecycline^MIC-BP|INVALID^0
+28-08-2024 04:20:59: Tx: ACK
+28-08-2024 04:21:00: Rx: R|2|^^^TIGECY^Tigecycline^Tigecycline^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:21:00: Tx: ACK
+28-08-2024 04:21:00: Rx: R|1|^^^TOBRAM^Tobramycin^Tobramycin^MIC-BP|INVALID^1
+28-08-2024 04:21:00: Tx: ACK
+28-08-2024 04:21:01: Rx: R|2|^^^TOBRAM^Tobramycin^Tobramycin^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:21:01: Tx: ACK
+28-08-2024 04:21:01: Rx: R|1|^^^TRISUL^Trimethoprim/Sulfamethoxazole^Trim/Sulmeth^MIC-BP|INVALID^1
+28-08-2024 04:21:01: Tx: ACK
+28-08-2024 04:21:02: Rx: R|2|^^^TRISUL^Trimethoprim/Sulfamethoxazole^Trim/Sulmeth^INTERP|NOMIC^No MIC Possible
+28-08-2024 04:21:02: Tx: ACK
+28-08-2024 04:21:02: Rx: L|1|N
+28-08-2024 04:21:02: Tx: ACK
+28-08-2024 04:21:03: Rx: EOT
+28-08-2024 04:21:03: *************END TRANSMIT****************
+28-08-2024 04:35:45: COM6 Open C:\Users\ARDISON\Documents\Visual Studio 2015\Projects\mAPI\mAPI\bin\Debug\LIS\Result
+28-08-2024 04:35:55: COM6 Open C:\Users\ARDISON\Documents\Visual Studio 2015\Projects\mAPI\mAPI\bin\Debug\LIS\Result
+28-08-2024 04:37:18: COM6 Open C:\Users\ARDISON\Documents\Visual Studio 2015\Projects\mAPI\mAPI\bin\Debug\LIS\Result
+28-08-2024 04:37:30: COM6 Open C:\Users\ARDISON\Documents\Visual Studio 2015\Projects\mAPI\mAPI\bin\Debug\LIS\Result
+28-08-2024 04:37:35: COM6 Open C:\Users\ARDISON\Documents\Visual Studio 2015\Projects\mAPI\mAPI\bin\Debug\LIS\Result
+28-08-2024 04:38:11: COM6 Open C:\Users\ARDISON\Documents\Visual Studio 2015\Projects\mAPI\mAPI\bin\Debug\LIS\Result

@@ -1,0 +1,115 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+mAPI
+</name>
+</assembly>
+<members>
+<member name="T:mAPI.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:mAPI.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:mAPI.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:mAPI.CommunicationManager.TransmissionType">
+ <summary>
+ enumeration to hold our transmission types
+ </summary>
+</member>
+<member name="T:mAPI.CommunicationManager.MessageType">
+ <summary>
+ enumeration to hold our message types
+ </summary>
+</member>
+<member name="P:mAPI.CommunicationManager.BaudRate">
+ <summary>
+ Property to hold the BaudRate
+ of our manager class
+ </summary>
+</member>
+<member name="P:mAPI.CommunicationManager.Parity">
+ <summary>
+ property to hold the Parity
+ of our manager class
+ </summary>
+</member>
+<member name="P:mAPI.CommunicationManager.StopBits">
+ <summary>
+ property to hold the StopBits
+ of our manager class
+ </summary>
+</member>
+<member name="P:mAPI.CommunicationManager.DataBits">
+ <summary>
+ property to hold the DataBits
+ of our manager class
+ </summary>
+</member>
+<member name="P:mAPI.CommunicationManager.PortName">
+ <summary>
+ property to hold the PortName
+ of our manager class
+ </summary>
+</member>
+<member name="P:mAPI.CommunicationManager.CurrentTransmissionType">
+ <summary>
+ property to hold our TransmissionType
+ of our manager class
+ </summary>
+</member>
+<member name="P:mAPI.CommunicationManager.DisplayWindow">
+ <summary>
+ property to hold our display window
+ value
+ </summary>
+</member>
+<member name="M:mAPI.CommunicationManager.#ctor(System.String,System.String,System.String,System.String,System.String,System.Windows.Forms.RichTextBox)">
+ <summary>
+ Constructor to set the properties of our Manager Class
+ </summary>
+ <param name="baud">Desired BaudRate</param>
+ <param name="par">Desired Parity</param>
+ <param name="sBits">Desired StopBits</param>
+ <param name="dBits">Desired DataBits</param>
+ <param name="name">Desired PortName</param>
+</member>
+<member name="M:mAPI.CommunicationManager.#ctor">
+ <summary>
+ Comstructor to set the properties of our
+ serial port communicator to nothing
+ </summary>
+</member>
+<member name="M:mAPI.CommunicationManager.HexToByte(System.String)">
+ <summary>
+ method to convert hex string into a byte array
+ </summary>
+ <param name="msg">string to convert</param>
+ <returns>a byte array</returns>
+</member>
+<member name="M:mAPI.CommunicationManager.ByteToHex(System.Byte[])">
+ <summary>
+ method to convert a byte array into a hex string
+ </summary>
+ <param name="comByte">byte array to convert</param>
+ <returns>a hex string</returns>
+</member>
+<member name="M:mAPI.CommunicationManager.comPort_DataReceived(System.Object,System.IO.Ports.SerialDataReceivedEventArgs)">
+ <summary>
+ method that will be called when theres data waiting in the buffer
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>
