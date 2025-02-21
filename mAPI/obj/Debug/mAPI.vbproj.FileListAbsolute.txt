@@ -162,3 +162,7 @@ E:\2024\Visual Studio 2015\Projects\mAPI\mAPI\bin\Debug\DevExpress.RichEdit.v24.
 E:\2024\Visual Studio 2015\Projects\mAPI\mAPI\bin\Debug\DevExpress.XtraTreeList.v24.2.xml
 E:\2024\Visual Studio 2015\Projects\mAPI\mAPI\bin\Debug\DevExpress.Office.v24.2.Core.xml
 E:\2024\Visual Studio 2015\Projects\mAPI\mAPI\obj\Debug\mAPI.vbproj.Up2Date
+D:\mAPI\mAPI\obj\Debug\mAPI.vbproj.AssemblyReference.cache
+D:\mAPI\mAPI\obj\Debug\mAPI.exe
+D:\mAPI\mAPI\obj\Debug\mAPI.xml
+D:\mAPI\mAPI\obj\Debug\mAPI.pdb
